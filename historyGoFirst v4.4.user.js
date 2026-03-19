@@ -286,9 +286,7 @@
             align-items: center;
         }
         .hgf-panel {
-            background: #fff;
-            padding: 20px;
-            border-radiusbackground: #212529;
+            background: #212529;
             color: #f0f0f0;
             width: 90%;
             max-width: 400px;
