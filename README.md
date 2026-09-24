@@ -12,7 +12,7 @@ Webサイトを巡回して元のページに戻りたい時、ブラウザの�
 
 **下のリンクからインストールしてくださいね！**  
 
-**[✨ GreasyForkでインストールする ✨](https://greasyfork.org/ja/scripts/546323)**  
+**[✨ GreasyForkでインストールする ✨](https://greasyfork.org/scripts/546323)**  
 
 ### 拡張機能の準備  
 
